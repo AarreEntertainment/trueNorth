@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 6e4df3e21ad844c4b8ef325756b3cedd
+timeCreated: 1500454993
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cans
+    100002: //RootNode
+    100004: Ramen
+    100006: Soya mince
+    100008: KitchenBase
+    100010: Cube
+    100012: cereal
+    100014: Cube.001
+    100016: Point
+    100018: bread
+    100020: chair
+    100022: chair.001
+    100024: chair.002
+    100026: chair.003
+    100028: chair.004
+    100030: chair.005
+    100032: table
+    100034: Curtain
+    100036: Curtain pole
+    100038: ristari
+    100040: cross
+    100042: flowerpots
+    100044: flowerpots.001
+    100046: flowerpots.002
+    100048: flowerpots.003
+    100050: rug 2
+    400000: Cans
+    400002: //RootNode
+    400004: Ramen
+    400006: Soya mince
+    400008: KitchenBase
+    400010: Cube
+    400012: cereal
+    400014: Cube.001
+    400016: Point
+    400018: bread
+    400020: chair
+    400022: chair.001
+    400024: chair.002
+    400026: chair.003
+    400028: chair.004
+    400030: chair.005
+    400032: table
+    400034: Curtain
+    400036: Curtain pole
+    400038: ristari
+    400040: cross
+    400042: flowerpots
+    400044: flowerpots.001
+    400046: flowerpots.002
+    400048: flowerpots.003
+    400050: rug 2
+    2300000: Cans
+    2300002: //RootNode
+    2300004: Ramen
+    2300006: Soya mince
+    2300008: KitchenBase
+    2300010: Cube
+    2300012: cereal
+    2300014: Cube.001
+    2300016: bread
+    2300018: chair
+    2300020: chair.001
+    2300022: chair.002
+    2300024: chair.003
+    2300026: chair.004
+    2300028: chair.005
+    2300030: table
+    2300032: Curtain
+    2300034: Curtain pole
+    2300036: ristari
+    2300038: cross
+    2300040: flowerpots
+    2300042: flowerpots.001
+    2300044: flowerpots.002
+    2300046: flowerpots.003
+    2300048: rug 2
+    3300000: Cans
+    3300002: //RootNode
+    3300004: Ramen
+    3300006: Soya mince
+    3300008: KitchenBase
+    3300010: Cube
+    3300012: cereal
+    3300014: Cube.001
+    3300016: bread
+    3300018: chair
+    3300020: chair.001
+    3300022: chair.002
+    3300024: chair.003
+    3300026: chair.004
+    3300028: chair.005
+    3300030: table
+    3300032: Curtain
+    3300034: Curtain pole
+    3300036: ristari
+    3300038: cross
+    3300040: flowerpots
+    3300042: flowerpots.001
+    3300044: flowerpots.002
+    3300046: flowerpots.003
+    3300048: rug 2
+    4300000: KitchenBase
+    4300002: Soya mince
+    4300004: Ramen
+    4300006: Cans
+    4300008: Cube
+    4300010: Cube.001
+    4300012: cereal
+    4300014: chair.005
+    4300016: chair.004
+    4300018: chair.003
+    4300020: chair.002
+    4300022: chair.001
+    4300024: chair
+    4300026: bread
+    4300028: table
+    4300030: Curtain
+    4300032: Curtain pole
+    4300034: ristari
+    4300036: cross
+    4300038: flowerpots.003
+    4300040: flowerpots.002
+    4300042: flowerpots.001
+    4300044: flowerpots
+    4300046: rug 2
+    10800000: Point
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0075
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

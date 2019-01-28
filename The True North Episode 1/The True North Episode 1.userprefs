@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PostProcessing\Runtime\Components\ColorGradingComponent.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MonoBehaviours\Player\PlayerMovement.cs" Line="54" Column="56" />
+      <File FileName="Assets\Scripts\MonoBehaviours\SceneControl\SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Conditions\AllConditions.cs" Line="33" Column="6" />
+      <File FileName="Assets\Scripts\MonoBehaviours\Camera\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoBehaviours\DataPersistence\GameObjectActivitySaver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Reactions\ImmediateReactions\SceneReaction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Editor\Interaction\Conditions\AllConditionsEditor.cs" Line="148" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Reactions\ImmediateReactions\TextReaction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonoBehaviours\Interaction\TextManager.cs" Line="55" Column="24" />
+      <File FileName="Assets\PostProcessing\Runtime\Components\ColorGradingComponent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
